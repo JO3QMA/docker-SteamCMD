@@ -1,0 +1,6 @@
+version: "3"
+services: 
+  steamcmd:
+    build: ./build/
+    #ports: 
+    #  - 27015:27015 #CS:GO
